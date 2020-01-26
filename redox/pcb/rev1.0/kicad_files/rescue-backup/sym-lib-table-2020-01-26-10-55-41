@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name rescue)(type Legacy)(uri "C:/Users/Wanjohi Mugo/Documents/keyboard/redox/pcb/rev1.0/kicad_files/redox_rev1-cache.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "C:/Users/Wanjohi Mugo/Documents/tmk_lib/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name mkl)(type Legacy)(uri "C:/Users/Wanjohi Mugo/Documents/tmk_lib/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name keebio_parts)(type Legacy)(uri "C:/Users/Wanjohi Mugo/Documents/keebio-components/keebio.lib")(options "")(descr ""))
+)
