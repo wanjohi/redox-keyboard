@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name redox_rev1-rescue)(type Legacy)(uri ${KIPRJMOD}/redox_rev1-rescue.lib)(options "")(descr ""))
+  (lib (name jlink)(type Legacy)(uri "C:/Users/Wanjohi Mugo/Documents/keyboard/redox/pcb/rev1.0/kicad_files/jlink_10-PIN_NEEDLE_ADAPTER.lib")(options "")(descr ""))
 )
